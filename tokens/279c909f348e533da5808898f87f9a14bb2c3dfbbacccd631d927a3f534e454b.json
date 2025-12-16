@@ -1,0 +1,19 @@
+{
+  "policyId": "279c909f348e533da5808898f87f9a14bb2c3dfbbacccd631d927a3f",
+  "hexName": "534e454b",
+  "name": "Snek",
+  "ticker": "SNEK",
+  "description": "The most memeable memecoin on Cardano. SNEK is a community-driven token celebrating the spirit of the Cardano ecosystem with a focus on fun, memes, and community engagement.",
+  "website": "https://snek.com",
+  "socials": {
+    "twitter": "https://twitter.com/SNEKcoin",
+    "discord": "https://discord.gg/snek",
+    "telegram": "https://t.me/Snekcoinada",
+    "github": null,
+    "medium": null,
+    "reddit": "https://reddit.com/r/sabornek",
+    "youtube": null
+  },
+  "tags": ["meme", "community"],
+  "verified": true
+}

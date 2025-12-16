@@ -1,0 +1,70 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://steelswap.io/token-metadata.schema.json",
+  "title": "SteelSwap Token Metadata",
+  "description": "Schema for Cardano token metadata used by SteelSwap",
+  "type": "object",
+  "required": ["policyId", "hexName", "name", "ticker", "description"],
+  "properties": {
+    "policyId": {
+      "type": "string",
+      "description": "The 56-character hex policy ID of the token",
+      "pattern": "^[a-f0-9]{56}$"
+    },
+    "hexName": {
+      "type": "string",
+      "description": "The hex-encoded asset name",
+      "pattern": "^[a-f0-9]*$"
+    },
+    "name": {
+      "type": "string",
+      "description": "Full name of the token"
+    },
+    "ticker": {
+      "type": "string",
+      "description": "Trading symbol/ticker"
+    },
+    "description": {
+      "type": "string",
+      "description": "Project description (max 300 characters)",
+      "maxLength": 300
+    },
+    "website": {
+      "type": ["string", "null"],
+      "description": "Primary project website URL",
+      "format": "uri"
+    },
+    "socials": {
+      "type": "object",
+      "description": "Social media links",
+      "properties": {
+        "twitter": { "type": ["string", "null"], "format": "uri" },
+        "discord": { "type": ["string", "null"], "format": "uri" },
+        "telegram": { "type": ["string", "null"], "format": "uri" },
+        "github": { "type": ["string", "null"], "format": "uri" },
+        "medium": { "type": ["string", "null"], "format": "uri" },
+        "reddit": { "type": ["string", "null"], "format": "uri" },
+        "youtube": { "type": ["string", "null"], "format": "uri" }
+      },
+      "additionalProperties": false
+    },
+    "tags": {
+      "type": "array",
+      "description": "Category tags for the token",
+      "items": {
+        "type": "string",
+        "enum": ["meme", "defi", "nft", "gaming", "stablecoin", "governance", "utility", "community", "rwa", "ai"]
+      }
+    },
+    "icon": {
+      "type": "string",
+      "description": "Base64-encoded data URI for token icon (PNG or SVG)",
+      "pattern": "^data:image/(png|svg\\+xml);base64,"
+    },
+    "verified": {
+      "type": "boolean",
+      "description": "Whether the token is verified by SteelSwap. Omit if not verified."
+    }
+  },
+  "additionalProperties": false
+}
