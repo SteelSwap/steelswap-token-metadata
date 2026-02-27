@@ -1,0 +1,19 @@
+{
+  "policyId": "8fef2d34078659493ce161a6c7fba4b56afefa8535296a5743f69587",
+  "hexName": "41414441",
+  "name": "Lenfi",
+  "ticker": "LENFI",
+  "description": "Lenfi (formerly AADA) is a decentralized lending and borrowing protocol on Cardano, enabling peer-to-pool lending with competitive interest rates and liquidation mechanisms.",
+  "website": "https://lenfi.io",
+  "socials": {
+    "twitter": "https://twitter.com/LenfiOfficial",
+    "discord": "https://discord.gg/lenfi",
+    "telegram": null,
+    "github": "https://github.com/lenfiLabs",
+    "medium": null,
+    "reddit": null,
+    "youtube": null
+  },
+  "tags": ["defi"],
+  "verified": true
+}

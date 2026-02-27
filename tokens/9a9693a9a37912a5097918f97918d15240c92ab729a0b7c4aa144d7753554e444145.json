@@ -1,0 +1,19 @@
+{
+  "policyId": "9a9693a9a37912a5097918f97918d15240c92ab729a0b7c4aa144d77",
+  "hexName": "53554e444145",
+  "name": "SundaeSwap",
+  "ticker": "SUNDAE",
+  "description": "SundaeSwap is one of the first decentralized exchanges built on Cardano, offering automated market making, liquidity provision, and token swaps with a user-friendly interface.",
+  "website": "https://sundae.fi",
+  "socials": {
+    "twitter": "https://twitter.com/SundaeSwap",
+    "discord": "https://discord.gg/sundaeswap",
+    "telegram": null,
+    "github": "https://github.com/SundaeSwap-finance",
+    "medium": "https://medium.com/sundaeswap-finance",
+    "reddit": null,
+    "youtube": null
+  },
+  "tags": ["defi"],
+  "verified": true
+}

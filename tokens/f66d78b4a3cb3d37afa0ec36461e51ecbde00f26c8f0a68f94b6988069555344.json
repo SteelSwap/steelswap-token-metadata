@@ -1,0 +1,19 @@
+{
+  "policyId": "f66d78b4a3cb3d37afa0ec36461e51ecbde00f26c8f0a68f94b69880",
+  "hexName": "69555344",
+  "name": "iUSD",
+  "ticker": "iUSD",
+  "description": "iUSD is a synthetic stablecoin on Cardano created by the Indigo Protocol. It is pegged to the US Dollar and backed by overcollateralized ADA positions.",
+  "website": "https://indigoprotocol.io",
+  "socials": {
+    "twitter": "https://twitter.com/IndigoProtocol1",
+    "discord": "https://discord.gg/indigo",
+    "telegram": null,
+    "github": null,
+    "medium": null,
+    "reddit": null,
+    "youtube": null
+  },
+  "tags": ["stablecoin", "defi"],
+  "verified": true
+}

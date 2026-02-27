@@ -1,0 +1,19 @@
+{
+  "policyId": "e52964af4fffdb54504859875b1827b60ba679074996156461143dc1",
+  "hexName": "4f5054494d",
+  "name": "Optim Finance",
+  "ticker": "OPTIM",
+  "description": "Optim Finance is a yield optimization and liquidity infrastructure protocol on Cardano, offering bond markets, liquidity routing, and yield strategies for DeFi participants.",
+  "website": "https://optim.finance",
+  "socials": {
+    "twitter": "https://twitter.com/OptimFi",
+    "discord": "https://discord.gg/optim",
+    "telegram": null,
+    "github": "https://github.com/OptimFinance",
+    "medium": "https://medium.com/@optim_finance",
+    "reddit": null,
+    "youtube": null
+  },
+  "tags": ["defi"],
+  "verified": true
+}

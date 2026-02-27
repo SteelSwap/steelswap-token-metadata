@@ -1,0 +1,19 @@
+{
+  "policyId": "8db269c3ec630e06ae29f74bc39edd1f87c819f1056206e879a1cd61",
+  "hexName": "446a65644d6963726f555344",
+  "name": "Djed",
+  "ticker": "DJED",
+  "description": "Djed is an overcollateralized algorithmic stablecoin on Cardano, pegged to the US Dollar. Built in partnership with COTI, it uses a reserve mechanism with SHEN as the reserve coin.",
+  "website": "https://djed.xyz",
+  "socials": {
+    "twitter": "https://twitter.com/DjedStablecoin",
+    "discord": null,
+    "telegram": "https://t.me/DjedStablecoin",
+    "github": null,
+    "medium": null,
+    "reddit": null,
+    "youtube": null
+  },
+  "tags": ["stablecoin", "defi"],
+  "verified": true
+}

@@ -1,0 +1,19 @@
+{
+  "policyId": "5d16cc1a177b5d9ba9cfa9793b07e60f1fb70fea1f8aef064415d114",
+  "hexName": "494147",
+  "name": "IAGON",
+  "ticker": "IAG",
+  "description": "IAGON is a decentralized storage and compute platform leveraging AI and blockchain technology. It provides shared storage and processing power through a global network of nodes.",
+  "website": "https://iagon.com",
+  "socials": {
+    "twitter": "https://twitter.com/IagonOfficial",
+    "discord": "https://discord.gg/iagon",
+    "telegram": "https://t.me/iaboratory",
+    "github": "https://github.com/Iagonorg",
+    "medium": "https://medium.com/@iaboratory",
+    "reddit": null,
+    "youtube": null
+  },
+  "tags": [ "utility" ],
+  "verified": true
+}
